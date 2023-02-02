@@ -1,0 +1,7 @@
+1 X (tipo da máquina [T/P/F])
+2 I (estado inicial (número))
+3 F1,F2,F3 (estados finais (número))
+4 F,COND,T
+5 ()
+...
+N ()

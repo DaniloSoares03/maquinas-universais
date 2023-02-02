@@ -1,0 +1,9 @@
+1 abababababab
+2 bbbbbbababababa
+3 abababababbaaaaa
+4 abababab
+5 bababababa
+6 abbaabbbbb
+7 bbbabbb
+8 aabaabaa
+
